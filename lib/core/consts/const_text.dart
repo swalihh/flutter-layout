@@ -1,0 +1,12 @@
+class ConstText{
+
+
+
+
+
+
+
+//constant Strings
+
+
+}
