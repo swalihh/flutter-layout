@@ -1,12 +1,3 @@
 class ConstText{
 
-
-
-
-
-
-
-//constant Strings
-
-
 }
